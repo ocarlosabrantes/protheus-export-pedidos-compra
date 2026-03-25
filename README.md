@@ -38,4 +38,4 @@ O relatório contempla as seguintes informações:
 
 ## 🔐 Controle de acesso
 
-O acesso ao relatório é controlado via parâmetro:
+O acesso ao relatório é controlado via parâmetro: SN_RELPCOM
